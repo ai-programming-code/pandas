@@ -1,7 +1,7 @@
 # Pandas 과제
 
-- [ ] pandas_1 titanic
-- [ ] pandas_2 corona
+- [x] pandas_1 titanic
+- [x] pandas_2 corona
 
 ## pandas_1
 제공한 데이터 파일(titanic.csv)을 이용하여 아래 통계치들을 계산하시오.
